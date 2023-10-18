@@ -1,3 +1,4 @@
+![image](Capa.jpeg)
 ## Exemplos utilizados na Live do canal DEPLOY no Youtube no dia 19/10/2023
 
 Arquivos:
